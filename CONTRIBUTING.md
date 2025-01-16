@@ -21,9 +21,11 @@ Please follow the guidelines below to ensure a smooth process.
 
 To ensure consistency and clarity when adding new resources, please follow the format below:
 
-### [Level under which topic should be]
+## **Topic Name**
 
-- **Title of resource**
+### Level under which topic should be(Beginner/ Intermediate/ Advanced)
+
+- **Title of your choice**
   - **[Resource Name](Link-to-Resource)**
   - **Type**: Documentation, Blog, Video, Course, etc.
   - **Description**: A brief summary of what the resource covers and its relevance.
@@ -31,7 +33,9 @@ To ensure consistency and clarity when adding new resources, please follow the f
 **Example:**
 
 ```md
-### [System Design Basics]
+## System Design
+
+### Intermediate
 
 - **[System Design Primer](https://github.com/donnemartin/system-design-primer)**
 - **Type**: GitHub Repository
