@@ -1,6 +1,6 @@
 # thinktank 🪖
 
-A collection of free resources that can help people up-skill in their careers irrespective of their job.
+A collection of free resources that can help people up-skill in their careers irrespective of their job. [List of resources](https://github.com/resauce-io/thinktank/blob/main/LIST.md)
 
 ## 🚀 **The Goal**
 
@@ -56,25 +56,11 @@ Anything free and credible, including:
 
 ---
 
-## ❤️ **Contributions**
+## 🤝 **ContributiNG**
 
-Refer [link](https://github.com/resauce-io/thinktank/blob/main/README.md) to learn how to contribute
+Refer [link](https://github.com/resauce-io/thinktank/blob/main/CONTRIBUTING.md) to learn how to contribute
 
 ---
-
-## ** List of topics **
-
-- [Javascript](#javascript)
-
-## **Javascript**
-
-### Beginner
-
-### **Introduction to JavaScript**
-
-- **Name of Resource**: [The Modern JavaScript Tutorial](https://javascript.info/)
-- **Type**: Documentation
-- **Description**: A comprehensive guide covering all fundamental concepts of JavaScript, from basic syntax to advanced topics, with interactive examples.
 
 ## ❤️ **Why does this matter?**
 
