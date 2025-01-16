@@ -1,6 +1,6 @@
 # thinktank 🪖
 
-A collection of free resources that can help people up-skill in their careers irrespective of their job.
+A collection of free resources that can help people up-skill in their careers irrespective of their job.  
 **[List of resources](./LIST.md)**
 
 ## 🚀 **The Goal**
@@ -57,7 +57,7 @@ Anything free and credible, including:
 
 ---
 
-## 🤝 **ContributiNG**
+## 🤝 **Contributing**
 
 Refer [link](./CONTRIBUTING.md) to learn how to contribute
 
