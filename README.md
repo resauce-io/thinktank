@@ -56,6 +56,26 @@ Anything free and credible, including:
 
 ---
 
+## ❤️ **Contributions**
+
+Refer [link](https://github.com/resauce-io/thinktank/blob/main/README.md) to learn how to contribute
+
+---
+
+## ** List of topics **
+
+- [Javascript](#javascript)
+
+## **Javascript**
+
+### Beginner
+
+### **Introduction to JavaScript**
+
+- **Name of Resource**: [The Modern JavaScript Tutorial](https://javascript.info/)
+- **Type**: Documentation
+- **Description**: A comprehensive guide covering all fundamental concepts of JavaScript, from basic syntax to advanced topics, with interactive examples.
+
 ## ❤️ **Why does this matter?**
 
 This repo is designed to make **learning accessible** for everyone. Whether you're advancing your career or just exploring for fun, this is your **go-to collection** for free and credible resources.
