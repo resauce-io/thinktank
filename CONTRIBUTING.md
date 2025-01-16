@@ -21,18 +21,19 @@ Please follow the guidelines below to ensure a smooth process.
 
 To ensure consistency and clarity when adding new resources, please follow the format below:
 
-### [Title of the Topic]
+### [Level under which topic should be]
 
-- **Name of Resource**: [Resource Name](Link-to-Resource)
-- **Type**: Documentation, Blog, Video, Course, etc.
-- **Description**: A brief summary of what the resource covers and its relevance.
+- **Title of resource**
+  - **[Resource Name](Link-to-Resource)**
+  - **Type**: Documentation, Blog, Video, Course, etc.
+  - **Description**: A brief summary of what the resource covers and its relevance.
 
 **Example:**
 
 ```md
 ### [System Design Basics]
 
-- **Name of Resource**: [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- **[System Design Primer](https://github.com/donnemartin/system-design-primer)**
 - **Type**: GitHub Repository
 - **Description**: A comprehensive resource for learning the basics of system design, including scalability, load balancing, and system architecture.
 ```
