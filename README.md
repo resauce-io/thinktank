@@ -1,4 +1,4 @@
-# thinktank 🪖
+# Thinktank 🪖
 
 A collection of free resources that can help people up-skill in their careers irrespective of their job.  
 **[List of resources](./LIST.md)**
