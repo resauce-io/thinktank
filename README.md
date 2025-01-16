@@ -1,6 +1,7 @@
 # thinktank 🪖
 
-A collection of free resources that can help people up-skill in their careers irrespective of their job. [List of resources](https://github.com/resauce-io/thinktank/blob/main/LIST.md)
+A collection of free resources that can help people up-skill in their careers irrespective of their job.
+**[List of resources](./LIST.md)**
 
 ## 🚀 **The Goal**
 
@@ -58,7 +59,7 @@ Anything free and credible, including:
 
 ## 🤝 **ContributiNG**
 
-Refer [link](https://github.com/resauce-io/thinktank/blob/main/CONTRIBUTING.md) to learn how to contribute
+Refer [link](./CONTRIBUTING.md) to learn how to contribute
 
 ---
 

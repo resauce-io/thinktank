@@ -1,6 +1,6 @@
-## **List of topics**
+## **🚀 List of topics**
 
-A comprehensive list to learn anything
+A comprehensive list of free resources to learn **anything**.
 
 - [Javascript](#javascript)
 
@@ -8,7 +8,7 @@ A comprehensive list to learn anything
 
 ### Beginner
 
-### **Introduction to JavaScript**
+#### **Introduction to JavaScript**
 
 - **Name of Resource**: [The Modern JavaScript Tutorial](https://javascript.info/)
 - **Type**: Documentation
