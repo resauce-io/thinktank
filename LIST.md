@@ -1,0 +1,14 @@
+## **🚀 List of topics**
+
+A comprehensive list of free resources to learn **anything**.
+
+- [Javascript](#javascript)
+
+## **Javascript**
+
+### Beginner
+
+- **Introduction to JavaScript**
+  - **[The Modern JavaScript Tutorial](https://javascript.info/)**
+  - **Type**: Documentation
+  - **Description**: A comprehensive guide covering all fundamental concepts of JavaScript, from basic syntax to advanced topics.
