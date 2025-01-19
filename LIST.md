@@ -26,3 +26,13 @@ A comprehensive list of free resources to learn **anything**.
 - **Type**: GitHub Repository
 - **Description**: A comprehensive resource for learning the basics of system design, including scalability, load balancing, and system architecture.
 </details>
+
+<details id="DSA">
+<summary> <h3> Data Structures & Algorithms </h3> </summary>
+
+### Intermediate
+
+- **[Leetcode 75](https://www.teamblind.com/post/new-year-gift---curated-list-of-top-75-leetcode-questions-to-save-your-time-OaM1orEU)**
+- **Type**: Questions
+- **Description**: a list of the best LeetCode questions that teach you core concepts and techniques for each category/type of problems.
+</details>
