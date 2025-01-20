@@ -4,6 +4,7 @@ A comprehensive list of free resources to learn **anything**.
 
 - [Javascript](#javascript)
 - [System Design](#systemDesign)
+- [Python](#python)
 
 <details id="javascript">
 <summary> <h3> Javascript </h3> </summary>
