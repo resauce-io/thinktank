@@ -4,6 +4,7 @@ A comprehensive list of free resources to learn **anything**.
 
 - [Javascript](#javascript)
 - [System Design](#systemDesign)
+- [Data Structures & Algorithms](#DSA)
 - [Python](#python)
 
 <details id="javascript">
