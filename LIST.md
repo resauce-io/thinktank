@@ -3,9 +3,28 @@
 A comprehensive list of free resources to learn **anything**.
 
 - [Javascript](#javascript)
-- [System Design](#systemDesign)
-- [Data Structures & Algorithms](#DSA)
 - [Python](#python)
+- [System Design](#system-design)
+- [Data Structures & Algorithms](#data-structures--algorithms)
+- [React](#react)
+- [Node.js](#nodejs)
+- [DevOps](#devops)
+- [Cloud Computing](#cloud-computing)
+- [Machine Learning](#machine-learning)
+- [Data Science](#data-science)
+- [Cybersecurity](#cybersecurity)
+- [UI/UX Design](#uiux-design)
+- [Git & Open Source](#git--open-source)
+- [Blockchain & Web3](#blockchain--web3)
+- [Rust](#rust)
+- [Go](#go)
+- [Soft Skills](#soft-skills)
+- [Resume Building](#resume-building)
+- [Interview Preparation](#interview-preparation)
+- [Game Development](#game-development)
+- [Digital Marketing](#digital-marketing)
+- [Financial Literacy](#financial-literacy)
+- [Entrepreneurship](#entrepreneurship)
 
 <details id="javascript">
 <summary> <h3> Javascript </h3> </summary>
