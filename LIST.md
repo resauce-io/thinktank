@@ -77,7 +77,7 @@ A comprehensive list of free resources to learn **anything**.
 
 ### Beginner
 
-- **[Intro to](https://www.youtube.com/watch?v=LOhfqjmasi0&t=3572s)**
+- **[Intro to Godot](https://www.youtube.com/watch?v=LOhfqjmasi0&t=3572s)**
 - **Type**: Youtube video
 - **Description**: a beginner tutorial on how to make a game in godot.
 
