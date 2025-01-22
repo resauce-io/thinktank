@@ -48,7 +48,7 @@ A comprehensive list of free resources to learn **anything**.
 - **Description**: A comprehensive resource for learning the basics of system design, including scalability, load balancing, and system architecture.
 </details>
 
-<details id="DSA">
+<details id="data-structures--algorithms">
 <summary> <h3> Data Structures & Algorithms </h3> </summary>
 
 ### Intermediate
@@ -70,4 +70,15 @@ A comprehensive list of free resources to learn **anything**.
 - **[Python Revision](https://www.youtube.com/watch?v=PNSIWjWAA7o)**
 - **Type**: Youtube video
 - **Description**: a summary of Python syntax.
+</details>
+
+<details id="game-development">
+<summary> <h3> Game development </h3> </summary>
+
+### Beginner
+
+- **[Intro to](https://www.youtube.com/watch?v=LOhfqjmasi0&t=3572s)**
+- **Type**: Youtube video
+- **Description**: a beginner tutorial on how to make a game in godot.
+
 </details>
