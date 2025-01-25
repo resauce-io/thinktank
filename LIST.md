@@ -70,3 +70,12 @@ A comprehensive list of free resources to learn **anything**.
 - **[Intro to Godot](https://www.youtube.com/watch?v=LOhfqjmasi0&t=3572s)**
 
 </details>
+
+<details id="machine-learning">
+<summary> <h3> Machine learning </h3> </summary>
+
+### Beginner
+
+- **[Brief intro to types of models](https://www.youtube.com/watch?v=yN7ypxC7838)**
+
+</details>
