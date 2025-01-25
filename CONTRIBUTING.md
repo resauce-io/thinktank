@@ -25,10 +25,7 @@ To ensure consistency and clarity when adding new resources, please follow the f
 
 ### Level under which topic should be(Beginner/ Intermediate/ Advanced)
 
-- **Title of your choice**
-  - **[Resource Name](Link-to-Resource)**
-  - **Type**: Documentation, Blog, Video, Course, etc.
-  - **Description**: A brief summary of what the resource covers and its relevance.
+- **[Title of your choice](Link-to-Resource)**
 
 **Example:**
 
@@ -38,8 +35,6 @@ To ensure consistency and clarity when adding new resources, please follow the f
 ### Intermediate
 
 - **[System Design Primer](https://github.com/donnemartin/system-design-primer)**
-- **Type**: GitHub Repository
-- **Description**: A comprehensive resource for learning the basics of system design, including scalability, load balancing, and system architecture.
 ```
 
 ### Why Follow This Format?

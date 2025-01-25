@@ -31,10 +31,7 @@ A comprehensive list of free resources to learn **anything**.
 
 ### Beginner
 
-- **Introduction to JavaScript**
-  - **[The Modern JavaScript Tutorial](https://javascript.info/)**
-  - **Type**: Documentation
-  - **Description**: A comprehensive guide covering all fundamental concepts of JavaScript, from basic syntax to advanced topics.
+- **[The Modern JavaScript Tutorial](https://javascript.info/)**
 
 </details>
 
@@ -44,8 +41,6 @@ A comprehensive list of free resources to learn **anything**.
 ### Intermediate
 
 - **[System Design Primer](https://github.com/donnemartin/system-design-primer)**
-- **Type**: GitHub Repository
-- **Description**: A comprehensive resource for learning the basics of system design, including scalability, load balancing, and system architecture.
 </details>
 
 <details id="data-structures--algorithms">
@@ -54,8 +49,7 @@ A comprehensive list of free resources to learn **anything**.
 ### Intermediate
 
 - **[Leetcode 75](https://www.teamblind.com/post/new-year-gift---curated-list-of-top-75-leetcode-questions-to-save-your-time-OaM1orEU)**
-- **Type**: Questions
-- **Description**: a list of the best LeetCode questions that teach you core concepts and techniques for each category/type of problems.
+
 </details>
 
 <details id="python">
@@ -64,12 +58,8 @@ A comprehensive list of free resources to learn **anything**.
 ### Beginner
 
 - **[Intro to Python](https://www.youtube.com/watch?v=eWRfhZUzrAc)**
-- **Type**: Youtube video
-- **Description**: an introductory Python tutorial.
-
 - **[Python Revision](https://www.youtube.com/watch?v=PNSIWjWAA7o)**
-- **Type**: Youtube video
-- **Description**: a summary of Python syntax.
+
 </details>
 
 <details id="game-development">
@@ -78,7 +68,5 @@ A comprehensive list of free resources to learn **anything**.
 ### Beginner
 
 - **[Intro to Godot](https://www.youtube.com/watch?v=LOhfqjmasi0&t=3572s)**
-- **Type**: Youtube video
-- **Description**: a beginner tutorial on how to make a game in godot.
 
 </details>
