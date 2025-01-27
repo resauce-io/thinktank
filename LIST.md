@@ -3,6 +3,7 @@
 A comprehensive list of free resources to learn **anything**.
 
 - [Javascript](#javascript)
+- [HTML](#html)
 - [Python](#python)
 - [System Design](#system-design)
 - [Data Structures & Algorithms](#data-structures--algorithms)
@@ -46,6 +47,10 @@ A comprehensive list of free resources to learn **anything**.
 <details id="data-structures--algorithms">
 <summary> <h3> Data Structures & Algorithms </h3> </summary>
 
+### Beginner
+
+- **[Neetcode 150](https://youtu.be/3OamzN90kPg?si=CcmmEVCPBulQansU)
+
 ### Intermediate
 
 - **[Leetcode 75](https://www.teamblind.com/post/new-year-gift---curated-list-of-top-75-leetcode-questions-to-save-your-time-OaM1orEU)**
@@ -68,5 +73,23 @@ A comprehensive list of free resources to learn **anything**.
 ### Beginner
 
 - **[Intro to Godot](https://www.youtube.com/watch?v=LOhfqjmasi0&t=3572s)**
+
+</details>
+
+<details id="machine-learning">
+<summary> <h3> Machine learning </h3> </summary>
+
+### Beginner
+
+- **[Brief intro to types of models](https://www.youtube.com/watch?v=yN7ypxC7838)**
+
+</details>
+
+<details id="html">
+<summary> <h3> HTML </h3> </summary>
+
+### Beginner
+
+- **[HTML Tutorial](https://www.youtube.com/watch?v=mJgBOIoGihA)**
 
 </details>
