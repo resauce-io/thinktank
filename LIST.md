@@ -42,6 +42,8 @@ A comprehensive list of free resources to learn **anything**.
 ### Intermediate
 
 - **[System Design Primer](https://github.com/donnemartin/system-design-primer)**
+- **[System Design Overview](https://github.com/karanpratapsingh/system-design)**
+
 </details>
 
 <details id="data-structures--algorithms">
@@ -49,7 +51,7 @@ A comprehensive list of free resources to learn **anything**.
 
 ### Beginner
 
-- **[Neetcode 150](https://youtu.be/3OamzN90kPg?si=CcmmEVCPBulQansU)
+- **[Neetcode 150](https://youtu.be/3OamzN90kPg?si=CcmmEVCPBulQansU)**
 
 ### Intermediate
 
