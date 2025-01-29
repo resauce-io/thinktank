@@ -39,10 +39,13 @@ A comprehensive list of free resources to learn **anything**.
 <details id="systemDesign">
 <summary> <h3> System Design </h3> </summary>
 
+### Beginner
+
+- **[System Design Overview](https://github.com/karanpratapsingh/system-design)**
+
 ### Intermediate
 
 - **[System Design Primer](https://github.com/donnemartin/system-design-primer)**
-- **[System Design Overview](https://github.com/karanpratapsingh/system-design)**
 
 </details>
 
