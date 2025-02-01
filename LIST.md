@@ -42,6 +42,7 @@ A comprehensive list of free resources to learn **anything**.
 ### Beginner
 
 - **[System Design Overview](https://github.com/karanpratapsingh/system-design)**
+- **[Low level system design](https://www.youtube.com/playlist?list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7)**
 
 ### Intermediate
 
@@ -96,5 +97,14 @@ A comprehensive list of free resources to learn **anything**.
 ### Beginner
 
 - **[HTML Tutorial](https://www.youtube.com/watch?v=mJgBOIoGihA)**
+
+</details>
+
+<details id="engineering-blogs">
+<summary> <h3> Engineering Blogs</h3> </summary>
+
+### Beginner
+
+- **[A-Z Company Engineering Blogs](https://github.com/kilimchoi/engineering-blogs?tab=readme-ov-file)**
 
 </details>
