@@ -26,6 +26,7 @@ A comprehensive list of free resources to learn **anything**.
 - [Digital Marketing](#digital-marketing)
 - [Financial Literacy](#financial-literacy)
 - [Entrepreneurship](#entrepreneurship)
+- [Engineering Blogs](#engineering-blogs)
 
 <details id="javascript">
 <summary> <h3> Javascript </h3> </summary>
