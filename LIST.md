@@ -44,7 +44,7 @@ A comprehensive list of free resources to learn **anything**.
 
 - **[System Design Overview](https://github.com/karanpratapsingh/system-design)**
 - **[Low level system design](https://www.youtube.com/playlist?list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7)**
-- \*\*[Two pointer problem](https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days)
+- **[Two pointer problem](https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days)**
 
 ### Intermediate
 
