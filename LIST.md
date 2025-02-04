@@ -57,6 +57,7 @@ A comprehensive list of free resources to learn **anything**.
 
 ### Beginner
 
+- **[Basic data structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)**
 - **[Neetcode 150](https://youtu.be/3OamzN90kPg?si=CcmmEVCPBulQansU)**
 
 ### Intermediate
