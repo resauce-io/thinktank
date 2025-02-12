@@ -59,6 +59,7 @@ A comprehensive list of free resources to learn **anything**.
 
 - **[Basic data structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)**
 - **[Neetcode 150](https://youtu.be/3OamzN90kPg?si=CcmmEVCPBulQansU)**
+- **[Striver A2Z DS-Algo course](https://youtu.be/0bHoB32fuj0?si=iz6Hci9t_8XNDNyz)**
 
 ### Intermediate
 
