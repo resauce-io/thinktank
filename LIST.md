@@ -27,6 +27,7 @@ A comprehensive list of free resources to learn **anything**.
 - [Financial Literacy](#financial-literacy)
 - [Entrepreneurship](#entrepreneurship)
 - [Engineering Blogs](#engineering-blogs)
+- [Docker](#docker)
 
 <details id="javascript">
 <summary> <h3> Javascript </h3> </summary>
@@ -110,5 +111,14 @@ A comprehensive list of free resources to learn **anything**.
 ### Beginner
 
 - **[A-Z Company Engineering Blogs](https://github.com/kilimchoi/engineering-blogs?tab=readme-ov-file)**
+
+</details>
+
+<details id="docker">
+<summary> <h3> Docker </h3> </summary>
+
+### Beginner
+
+- **[Intro to Docker](https://www.youtube.com/watch?v=DQdB7wFEygo&t=48s)**
 
 </details>
