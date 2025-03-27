@@ -122,3 +122,12 @@ A comprehensive list of free resources to learn **anything**.
 - **[Intro to Docker](https://www.youtube.com/watch?v=DQdB7wFEygo&t=48s)**
 
 </details>
+
+<details id="git--open-source">
+<summary> <h3> Github & Open Source </h3> </summary>
+
+### Intermediate
+
+- **[Git cheat sheet](https://ohshitgit.com)**
+
+</details>
