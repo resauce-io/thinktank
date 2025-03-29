@@ -28,6 +28,7 @@ A comprehensive list of free resources to learn **anything**.
 - [Entrepreneurship](#entrepreneurship)
 - [Engineering Blogs](#engineering-blogs)
 - [Docker](#docker)
+- [Robotics](#robotics)
 
 <details id="javascript">
 <summary> <h3> Javascript </h3> </summary>
@@ -129,5 +130,14 @@ A comprehensive list of free resources to learn **anything**.
 ### Intermediate
 
 - **[Git cheat sheet](https://ohshitgit.com)**
+
+</details>
+
+<details id="robotics">
+<summary> <h3> Robotics </h3> </summary>
+
+### Beginner
+
+- **[Arduino tutorial](https://www.youtube.com/watch?v=CfdaJ4z4u4w&list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP&index=3)**
 
 </details>
